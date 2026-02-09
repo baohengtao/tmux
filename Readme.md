@@ -4,4 +4,4 @@ git clone https://github.com/tmux-plugins/tpm $XDG_CONFIG_HOME/tmux/plugins/tpm
 # if XDG based config not supported
 ln -f ~/.config/tmux/tmux.conf .tmux.conf
 ```
-
+ After load, press `ctrl+s I` to install plugin
